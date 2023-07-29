@@ -1,5 +1,5 @@
 
-(https://www.syntaxtechs.com/courses/sdet-training-course-online)
+https://www.syntaxtechs.com/courses/sdet-training-course-online
 
 <h1 align="center">Hi 👋, I'm Ahmet Yilmaz</h1>
 <h3 align="center">A passionate SDET from Oberhausen</h3>
