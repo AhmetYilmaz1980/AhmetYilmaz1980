@@ -1,3 +1,4 @@
+https://www.deviqa.com/static/images/posts/sdet/1.jpg
 
 <h1 align="center">Hi 👋, I'm Ahmet Yilmaz</h1>
 <h3 align="center">A passionate SDET from Oberhausen</h3>
