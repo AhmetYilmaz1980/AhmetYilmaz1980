@@ -1,4 +1,4 @@
-[[https://www.deviqa.com/static/images/posts/sdet/1.jpg](https://www.linkpicture.com/view.php?img=LPic64c4d02f20a582012563619)](https://www.linkpicture.com/q/LPic64c4d02f20a582012563619.jpg)
+https://images.app.goo.gl/vNTpJMSgg1iKEUTP8
 
 <h1 align="center">Hi 👋, I'm Ahmet Yilmaz</h1>
 <h3 align="center">A passionate SDET from Oberhausen</h3>
