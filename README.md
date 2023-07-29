@@ -1,4 +1,4 @@
-https://images.app.goo.gl/vNTpJMSgg1iKEUTP8
+[![MasterHead](https://images.app.goo.gl/vNTpJMSgg1iKEUTP8)
 
 <h1 align="center">Hi 👋, I'm Ahmet Yilmaz</h1>
 <h3 align="center">A passionate SDET from Oberhausen</h3>
