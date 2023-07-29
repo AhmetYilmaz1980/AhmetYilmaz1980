@@ -1,4 +1,4 @@
-[![MasterHead](https://assets.website-files.com/6004fa811a07c5ae5a5d58e9/60560193650af1776fac6854_programming-lang-p-500.png)
+ [![MasterHead](https://www.manual2automationtesting.com/wp-content/uploads/2021/09/SDET-course-Become-an-effective-Automation-Tester-V6-1-1536x864.jpg)
 
 <h1 align="center">Hi 👋, I'm Ahmet Yilmaz</h1>
 <h3 align="center">A passionate SDET from Oberhausen</h3>
