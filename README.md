@@ -1,4 +1,4 @@
-[https://www.syntaxtechs.com/courses/sdet-training-course-online](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.syntaxtechs.com%2Fcourses%2Fsdet-training-course-online&psig=AOvVaw2_XJkOvQhb8t87LMokD2oe&ust=1690705608075000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjSyqu_s4ADFQAAAAAdAAAAABAE)
+https://www.deviqa.com/static/images/posts/sdet/1.jpg
 <h1 align="center">Hi 👋, I'm Ahmet Yilmaz</h1>
 <h3 align="center">A passionate SDET from Oberhausen</h3>
 
