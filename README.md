@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmetyilmaz1980" alt="ahmetyilmaz1980" /></a> </p>
 
-- 🔭 I’m currently working on [DgMrkt Automation Test](https://dgmarkt.com/login.php)
+- 🔭 I’m currently working on [ZONE EDV Handel](https://www.zone-edv.de/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
